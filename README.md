@@ -34,4 +34,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
+
+
+
+Portfolio
+Contact Info
+Productivity Tool
+
+
+Evolution of myspace.. Looking for a professionaly build personal website or an online presence. Contact me for more information. 
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
