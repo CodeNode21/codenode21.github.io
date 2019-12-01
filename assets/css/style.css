@@ -61,8 +61,9 @@ h1 {
     opacity: 1;
     margin: 5px;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
 }
+
 img{
     margin: 3px;
 
@@ -95,7 +96,6 @@ aside {
 }
 
 footer {
-    height: 250px;
     text-align: center;
     font-size: small;
 }
