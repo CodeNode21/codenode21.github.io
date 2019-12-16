@@ -29,7 +29,7 @@ img.background-img{
 }
 .card:hover{
     /* on hover turn lighter color with opacity of 50% */
-    transition: all 0.5s ease-in;
+  transition: all 0.5s ease-in; 
   z-index: 2;
   box-sizing: border-box;
   padding: 30px;
