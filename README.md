@@ -1,3 +1,10 @@
 https://codenode21.github.io/
 
-## Welcome to My GitHub Page
+## Welcome to my Portfolio
+
+
+This site has been built using the following technologies
+
+..* HTML
+- CSS
+- Bootstrap
